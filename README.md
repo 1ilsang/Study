@@ -11,21 +11,14 @@
 <td width="30%" >
 
 [![The Majesty of Vue.js 2](img/majestyVue.png)](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
-
-<img width="70%" src="img/majestyVue.png"></img>
-- [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 </td>
-
 <td width="30%">
 
-<img width="70%" src="img/vueimg.jpg"></img>
-- [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
+[![Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](img/vueimg.jpg)](https://github.com/1ilsang/Vue.js-Quick-Start)
 </td>
-
 <td width="30%" >
 
-<img width="70%" src="img/inflearn.png"></img>
-- [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
+[![Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](img/inflearn.png)](https://github.com/1ilsang/Functional-JS-inflearn)
 </td>
 </tr>
 <tr>
