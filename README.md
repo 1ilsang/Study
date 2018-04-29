@@ -3,7 +3,7 @@
 더 많이 공부해야지~~
 
 <table>
-<tr>
+<tr textalign="center">
 <td width="30%" >
 
 <img width="70%" src="img/majestyVue.png"></img>
@@ -29,9 +29,8 @@
 - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
 
 </td>
-</tr>
 
-<td>
+<td widtd="30%">
 
 - [인사이드 자바스크립트(Inside Javascript) - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
 </td>
