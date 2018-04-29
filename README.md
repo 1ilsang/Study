@@ -12,15 +12,21 @@
 
 <img width="70%" src="img/quickTypeScript.jpg"></img>
 - [TypeScript]()
-준비중...
+공부중...
 </td>
 
 <td width="30%">
 
+<img width="70%" src="img/pictureTcpip.png"></img>
+- [Tcp/Ip가 보이는 그림책]()
+공부중...
 </td>
 
 <td width="30%" >
 
+<img width="70%" src="img/learningHttp2.jpg"></img>
+- [러닝 Http/2]()
+공부중...
 </td>
 </tr>
 
@@ -47,14 +53,14 @@
 <td width="30%" >
 
 <img width="70%" src="img/learningJS.jpeg"></img>
-- [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
+- [러닝 자바스크립트 - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
 
 </td>
 
 <td width="30%">
 
 <img width="70%" src="img/insideJS.jpg"></img>
-- [인사이드 자바스크립트(Inside Javascript) - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
+- [인사이드 자바스크립트 - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
 </td>
 <td width="30%">
 
