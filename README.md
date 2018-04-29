@@ -5,20 +5,20 @@
 <img width="20%" height="30%" src="img/majestyVue.png"></img>
 - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 
-<img width="30%" height="30%" src="img/vueimg.jpg"></img>
+<img width="20%" height="30%" src="img/vueimg.jpg"></img>
 - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
 
-<img width="30%" height="30%" src="img/inflearn.png"></img>
+<img width="20%" height="30%" src="img/inflearn.png"></img>
 - [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
 
-<img width="30%" height="30%" src="img/learningJS.jpeg"></img>
+<img width="20%" height="30%" src="img/learningJS.jpeg"></img>
 - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
 
 - [인사이드 자바스크립트(Inside Javascript) - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
 
 - [Do it! Node.js 프로그래밍 - 정재곤 (이지스퍼블리싱17)](https://github.com/1ilsang/17_study_compilation/tree/master/nodejsBoardList)
 
-<img width="30%" height="30%" src="img/java_designpattern.jpg"></img>
+<img width="20%" height="30%" src="img/java_designpattern.jpg"></img>
 - [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](./DesignPattern.md)
 
 - [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](http://1ilsang.blog.me/220721246081)
