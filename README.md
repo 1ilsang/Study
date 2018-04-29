@@ -17,12 +17,23 @@
 <img width="20%" height="30%" src="img/inflearn.png"></img>
 - [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
 </td>
-</tr>
+<td>
 
 <img width="20%" height="30%" src="img/learningJS.jpeg"></img>
 - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
+</td>
+</tr>
+
+<tr>
+<td>
 
 - [인사이드 자바스크립트(Inside Javascript) - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
 
 - [Do it! Node.js 프로그래밍 - 정재곤 (이지스퍼블리싱17)](https://github.com/1ilsang/17_study_compilation/tree/master/nodejsBoardList)
 
