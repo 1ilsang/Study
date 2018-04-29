@@ -2,8 +2,8 @@
 공부한 책 및 자료들을 정리한 공간입니다.<br/>
 더 많이 공부해야지~~
 
-<table>
-<tr textalign="center">
+<table text-align="center">
+<tr>
 <td width="30%" >
 
 <img width="70%" src="img/majestyVue.png"></img>
