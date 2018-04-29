@@ -4,26 +4,26 @@
 
 <table>
 <tr>
-    <td width="30%" >
-    
-    <img src="img/majestyVue.png"></img>
-    - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
-    
-    </td>
-    
-    <img width="50%" src="img/vueimg.jpg"></img>
-    - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
-    <td width="30%" >
-    
-    <img width="50%" src="img/inflearn.png"></img>
-    - [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
-    </td>
-    <td width="30%" >
-    
-    <img width="50%" src="img/learningJS.jpeg"></img>
-    - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
-    
-    </td>
+<td width="30%" >
+
+<img src="img/majestyVue.png"></img>
+- [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
+
+</td>
+
+<img width="50%" src="img/vueimg.jpg"></img>
+- [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
+<td width="30%" >
+
+<img width="50%" src="img/inflearn.png"></img>
+- [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
+</td>
+<td width="30%" >
+
+<img width="50%" src="img/learningJS.jpeg"></img>
+- [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
+
+</td>
 </tr>
 
 <tr>
