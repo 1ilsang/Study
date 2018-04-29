@@ -63,7 +63,7 @@
 <tr>
 <td width="30%">
 
-<img width="70%" src="img/javaCeremony.jpeg"></img>
+<img width="70%" src="img/javaCeremony.jpg"></img>
 - [자바의 정석 - 남궁성 (도우출판16)](http://1ilsang.blog.me/220952278705)
 </td>
 <td width="30%">
