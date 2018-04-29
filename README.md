@@ -4,16 +4,21 @@
 <table>
 <tr>
 <td>
+
 <img width="20%" height="30%" src="img/majestyVue.png"></img>
 - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
+
 </td>
+
 <img width="20%" height="30%" src="img/vueimg.jpg"></img>
 - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
 <td>
+
 <img width="20%" height="30%" src="img/inflearn.png"></img>
 - [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
 </td>
 </tr>
+
 <img width="20%" height="30%" src="img/learningJS.jpeg"></img>
 - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
 
