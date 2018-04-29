@@ -16,7 +16,7 @@
 
 <td width="30%">
 
-![1](img/vueimg.jpg)
+![1](img/vueimg.jpg){width="30%"}
 - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
 </td>
 
