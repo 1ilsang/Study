@@ -10,6 +10,8 @@
 <tr>
 <td width="30%" >
 
+[![The Majesty of Vue.js 2](img/majestyVue.png)](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
+
 <img width="70%" src="img/majestyVue.png"></img>
 - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 </td>
