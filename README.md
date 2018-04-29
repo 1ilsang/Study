@@ -10,13 +10,13 @@
 <tr>
 <td width="30%" >
 
-![1](img/majestyVue.png)
+<img width="70%" src="img/majestyVue.png"></img>
 - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 </td>
 
 <td width="30%">
 
-![1](img/vueimg.jpg){width="30%"}
+<img width="70%" src="img/vueimg.jpg"></img>
 - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
 </td>
 
