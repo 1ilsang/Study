@@ -73,7 +73,7 @@
 <td width="30%">
 
 <img width="70%" src="img/java_designpattern.jpg"></img>
-- [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](./DesignPattern.md)
+- [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](index/DesignPattern.md)
 </td>
 <td width="30%">
 
