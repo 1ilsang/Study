@@ -30,17 +30,27 @@
 
 </td>
 
-<td widtd="30%">
+<td width="30%">
 
+<img width="70%" src="img/insideJS.jpg"></img>
 - [인사이드 자바스크립트(Inside Javascript) - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
 </td>
-<td>
-</td>
-<td>
+<td width="30%">
+
+<img width="70%" src="img/doitnode.jpeg"></img>
+- [Do it! Node.js 프로그래밍 - 정재곤 (이지스퍼블리싱17)](https://github.com/1ilsang/17_study_compilation/tree/master/nodejsBoardList)
 </td>
 </tr>
 
-- [Do it! Node.js 프로그래밍 - 정재곤 (이지스퍼블리싱17)](https://github.com/1ilsang/17_study_compilation/tree/master/nodejsBoardList)
+<tr>
+<td width="30%">
+</td>
+<td width="30%">
+</td>
+<td width="30%">
+</td>
+</tr>
+
 
 <img width="20%" height="30%" src="img/java_designpattern.jpg"></img>
 - [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](./DesignPattern.md)
