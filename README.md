@@ -44,20 +44,25 @@
 
 <tr>
 <td width="30%">
+
+<img width="70%" src="img/java_designpattern.jpg"></img>
+- [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](./DesignPattern.md)
 </td>
 <td width="30%">
+
+<img width="70%" src="img/열혈c.jpg"></img>
+- [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](http://1ilsang.blog.me/220721246081)
 </td>
 <td width="30%">
+
+<img width="70%" src="img/C300.jpg"></img>
+- [초보자를 위한 C 언어 300제 - 김은철 (정보문화사13)](http://1ilsang.blog.me/220795346040)
 </td>
 </tr>
 
 
-<img width="20%" height="30%" src="img/java_designpattern.jpg"></img>
-- [자바 객체지향 디자인 패턴 - 정인상, 채흥석 (한빛미디어14)](./DesignPattern.md)
 
-- [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](http://1ilsang.blog.me/220721246081)
 
-- [초보자를 위한 C 언어 300제 - 김은철 (정보문화사13)](http://1ilsang.blog.me/220795346040)
 
 - [자바의 정석 - 남궁성 (도우출판16)](http://1ilsang.blog.me/220952278705)
 
