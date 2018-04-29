@@ -1,7 +1,7 @@
 # STUDY
 >공부한 책 및 자료들을 정리한 공간입니다.
 >
->클릭 하시면 정리한 상세 페이지로 이동할 수 있습니다.
+>클릭 하시면 정리한 상세 페이지로 이동할 수 있습니다. 
 >
 >더 많이 공부해야지~~
 
@@ -10,15 +10,20 @@
 <tr>
 <td width="30%" >
 
-[![The Majesty of Vue.js 2](img/majestyVue.png)](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
+<img width="70%" src="img/majestyVue.png"></img>
+- [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 </td>
+
 <td width="30%">
 
-[![Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](img/vueimg.jpg)](https://github.com/1ilsang/Vue.js-Quick-Start)
+<img width="70%" src="img/vueimg.jpg"></img>
+- [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
 </td>
+
 <td width="30%" >
 
-[![Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](img/inflearn.png)](https://github.com/1ilsang/Functional-JS-inflearn)
+<img width="70%" src="img/inflearn.png"></img>
+- [Inflearn - 자바스크립트로 알아보는 함수형 프로그래밍](https://github.com/1ilsang/Functional-JS-inflearn)
 </td>
 </tr>
 <tr>
