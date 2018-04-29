@@ -15,3 +15,53 @@ UML, 클래스 다이어그램, 연관 관계, 일반화 관계, 집합 관계, 
 ```javascript
 추상화, 캡슐화, 일반화, 위임, 다형성, 피터 코드의 상속 규칙
 ```
+
+#### 3. [SOLID 원칙](http://1ilsang.blog.me/221105781167)
+```javascript
+단일책임원칙 SRP, 개방폐쇄원칙 OCP, 리스코프 치환 원칙 LSP, 의존 역전 원칙 DIP, 인터페이스 분리 원칙 ISP
+```
+
+#### 4. [디자인 패턴](http://1ilsang.blog.me/221119207865)
+```javascript
+GoF의 23패턴, 순차 다이어그램, 컬레보레이션, 어커런스
+```
+
+#### 5. [스트래티지 패턴](http://1ilsang.blog.me/221119257326)
+```javascript
+Strategy, 전략
+```
+
+#### 6. [싱글톤 패턴](http://1ilsang.blog.me/221149881492)
+```javascript
+Singleton
+```
+
+#### 7. [스테이트 패턴](http://1ilsang.blog.me/221149951222)
+```javascript
+State
+```
+
+#### 8. [커맨드 패턴](http://1ilsang.blog.me/221150696602)
+```javascript
+Command
+```
+
+#### 9. [옵저버 패턴](http://1ilsang.blog.me/221150802437)
+```javascript
+Observer
+```
+
+#### 10. [데코레이터 패턴](http://1ilsang.blog.me/221151262547)
+```javascript
+Decorator
+```
+
+#### 11. [템플릿 메서드 패턴](http://1ilsang.blog.me/221159883959)
+```javascript
+Template Method
+```
+
+#### 12. [팩토리 메서드 패턴](http://1ilsang.blog.me/221160033644)
+```javascript
+Factory Method
+```
