@@ -60,15 +60,30 @@
 </td>
 </tr>
 
+<tr>
+<td width="30%">
 
-
-
-
+<img width="70%" src="img/javaCeremony.jpeg"></img>
 - [자바의 정석 - 남궁성 (도우출판16)](http://1ilsang.blog.me/220952278705)
+</td>
+<td width="30%">
 
+<img width="70%" src="img/firstServlet&jsp.jpeg"></img>
 - [처음 해보는 Servlet & JSP 웹 프로그래밍 - 오정임 (루비페이퍼17)](https://github.com/1ilsang/17_study_compilation/tree/master/FirstServlet)
+</td>
+<td width="30%">
 
+<img width="70%" src="img/stringQuickStart.jpg"></img>
 - [스프링 퀵 스타트(Spring quick start) - 최규태 (루비페이퍼17)](https://github.com/1ilsang/17_study_compilation/tree/master/Spring_prt)
+</td>
+</tr>
+
+<tr>
+<td width="30%">
+
+<img width="70%" src="img/unixHanbit.png"/>
 
 - [유닉스 이론과 실습 - 운소정,이종원 (한빛미디어17)](http://1ilsang.blog.me/220565472888)
+</td>
+</tr>
 </table>
