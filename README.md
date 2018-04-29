@@ -2,7 +2,8 @@
 공부한 책 및 자료들을 정리한 공간입니다.<br/>
 더 많이 공부해야지~~
 
-<img width="30%" height="30%" src="img/majestyVue.png"></img> - [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
+<img width="30%" height="20%" src="img/majestyVue.png"></img>
+- [The Majesty of Vue.js 2](https://github.com/1ilsang/The-Majesty-Of-Vue.js2)
 
 <img width="30%" height="30%" src="img/vueimg.jpg"></img>
 - [Vue 퀵 스타트(Vue.js quick start) - 원형섭 (루비페이퍼)](https://github.com/1ilsang/Vue.js-Quick-Start)
