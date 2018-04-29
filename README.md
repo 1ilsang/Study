@@ -19,7 +19,7 @@
 </td>
 <td width="30%" >
 
-<img height="30%" src="img/learningJS.jpeg"></img>
+<img height="5%" src="img/learningJS.jpeg"></img>
 - [러닝 자바스크립트 Learning Javascript - 이선 브라운 (한빛미디어17)](https://github.com/1ilsang/Learning-Javascript)
 </td>
 </tr>
