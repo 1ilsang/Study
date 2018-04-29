@@ -1,6 +1,43 @@
 # STUDY
 공부한 책 및 자료들을 정리한 공간입니다.<br/>
 더 많이 공부해야지~~
+
+<script type="text/javascript">
+var list = [
+    { name : "The Majesty of Vue.js 2",
+      url : "https://github.com/1ilsang/The-Majesty-Of-Vue.js2",
+      img : "img/majestyVue.png"
+    },
+    { name: "Vue 퀵 스타트(Vue.js quick start)",
+        url : "https://github.com/1ilsang/Vue.js-Quick-Start",
+        author: "원형섭",
+        publisher : "루비페이퍼",
+        img: "img/vueimg.jpg"
+    },
+    { name: "자바스크립트로 알아보는 함수형 프로그래밍",
+        url: "https://github.com/1ilsang/Functional-JS-inflearn",
+        author: "유인동",
+        publisher: "인프런",
+        img: "img/inflearn.png"
+    },
+    {  },
+];
+</script>
+
+<table>
+<tr>
+<td>
+<script type="text/javascript">
+list[0].name
+</script>
+</td>
+</tr>
+
+
+</table>
+
+
+
 <table>
 <tr>
 <td width="30%" >
