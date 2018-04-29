@@ -15,6 +15,12 @@
 - [그림으로 배우는 HTTP & Network Basic](http://1ilsang.blog.me/221257888202)
 업데이트 예정
 </td>
+<td width="30%">
+
+</td>
+<td width="30%">
+
+</td>
 </tr>
 <tr>
 <td width="30%" >
