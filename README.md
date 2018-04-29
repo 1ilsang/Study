@@ -73,7 +73,7 @@
 </td>
 <td width="30%">
 
-<img width="70%" src="img/stringQuickStart.jpg"></img>
+<img width="70%" src="img/springQuickStart.jpg"></img>
 - [스프링 퀵 스타트(Spring quick start) - 최규태 (루비페이퍼17)](https://github.com/1ilsang/17_study_compilation/tree/master/Spring_prt)
 </td>
 </tr>
