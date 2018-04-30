@@ -10,8 +10,8 @@
 <tr>
 <td width="30%" >
 
-<img width="70%" src="img/quickTypeScript.jpg"></img>
-- [TypeScript]()
+<a href="https://github.com/1ilsang/TypeScript-Quick-Start"><img width="70%" src="img/quickTypeScript.jpg"></img></a>
+- [TypeScript](https://github.com/1ilsang/TypeScript-Quick-Start)
 공부중...
 </td>
 
