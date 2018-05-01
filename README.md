@@ -26,8 +26,8 @@
 <td width="30%" >
 
 <a href="https://github.com/1ilsang/TypeScript-Quick-Start"><img width="70%" src="img/quickTypeScript.jpg"></img></a>
-- [TypeScript](https://github.com/1ilsang/TypeScript-Quick-Start)
-공부중...
+- [TypeScript 퀵 스타트(Typescript Quick Start) - 정진욱 (루비페이)](https://github.com/1ilsang/TypeScript-Quick-Start)
+ 공부중...
 </td>
 
 <td width="30%">
