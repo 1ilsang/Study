@@ -18,7 +18,7 @@ h0.9, h1, h1.1, SPDY, h2, h2 서버구동, CA(인증서 발급)
 3-way Handshake, TTFB, 혼잡 제어(Reno), 혼잡 윈도우, 패킷, 슬로우 스타트, 웹 최적화, TTL, 안티패턴 
 ```
 
-#### 4. HTTP/2로의 전환 .
+#### 4. HTTP/2로의 전환
 ```javascript
 공부중
 ```
