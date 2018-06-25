@@ -5,9 +5,9 @@
 >
 >더 많이 공부해야지~~
 
-# [Algorithm](./Algoritm/README.md)
+# 1. [Algorithm](./Algoritm/README.md)
 
-
+# 2. Books
 <table text-align="center">
 <tr>
 <td width="30%">
