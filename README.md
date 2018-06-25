@@ -5,6 +5,8 @@
 >
 >더 많이 공부해야지~~
 
+# [Algorithm](./Algoritm/README.md)
+
 
 <table text-align="center">
 <tr>
