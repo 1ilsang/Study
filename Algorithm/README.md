@@ -4,5 +4,5 @@
 
 ### 풀고 있는 것들
 
-#### 1. [SWEA](SWEA)
+#### 1. [SW Expert Academy(SWEA)](SWEA)
 
