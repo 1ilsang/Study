@@ -6,14 +6,30 @@
 
 #include <stdio.h>
 #include <vector>
+#include <iostream>
+#include <string>
+
 using namespace std;
 
-int main(void){
+int main(void) {
     int t, cnt = 1;
     scanf("%d", &t);
-    while (t--){
-        int v;
-        scanf("%d", &v);
-        printf("%d\n", v);
+    while (t--) {
+        int ans = 0;
+        string s;
+        cin >> s;
+
+        if(s[0] - '0' == 1) ans++;
+
+        for (int i = 1; i < s.size(); i++) {
+            if (s[i - 1] == s[i]) {
+                continue;
+            } else {
+                ans++;
+            }
+        }
+
+        printf("#%d %d\n", cnt++, ans);
     }
+    return 0;
 }
