@@ -11,6 +11,19 @@
 <table text-align="center">
 <tr>
 <td width="30%">
+ 
+<a href=""><img width="70%" src="img/gcpBegin.jpg"/></a>
+
+- [구글 클라우드 플랫폼 입문]() <br/>
+읽는중
+</td>
+<td width="30%">
+</td>
+<td width="30%">
+</td>
+</tr>
+<tr>
+<td width="30%">
 
 <a href="http://1ilsang.blog.me/221257888202"><img width="70%" src="img/networkbasic.jpg"/></a>
 
