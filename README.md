@@ -19,6 +19,9 @@
 </td>
 <td width="30%">
 
+<img width="70%" src="img/lie_down_algorithm.jpg"/>
+- [누워서 읽는 알고리즘](http://1ilsang.blog.me/221310043150)
+읽는중
 </td>
 <td width="30%">
 
