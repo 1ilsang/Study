@@ -26,6 +26,10 @@
 </td>
 <td width="30%">
 
+<img width="70%" src="img/HTTPperfect.jpg" />
+
+- [HTTP 완벽 가이드](index/HttpPerfect.md)
+
 </td>
 </tr>
 <tr>
