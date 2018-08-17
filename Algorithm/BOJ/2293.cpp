@@ -1,5 +1,5 @@
 //https://www.acmicpc.net/problem/2293
-//
+//http://1ilsang.blog.me/221340766367
 
 #include <cstdio>
 
