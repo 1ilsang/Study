@@ -1,5 +1,5 @@
 //https://www.acmicpc.net/problem/1010
-//
+//http://1ilsang.blog.me/221341136584
 
 #include <iostream>
 using namespace std;
