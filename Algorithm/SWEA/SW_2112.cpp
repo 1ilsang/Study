@@ -1,5 +1,5 @@
 //https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu&
-//
+//http://1ilsang.blog.me/221349369691
 
 #include <cstdio>
 #include <algorithm>
