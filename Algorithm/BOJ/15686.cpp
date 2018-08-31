@@ -1,5 +1,5 @@
 //https://www.acmicpc.net/problem/15686
-//
+//http://1ilsang.blog.me/221349989107
 
 #include <cstdio>
 #include <vector>
