@@ -7,7 +7,7 @@
 
 # 1. [Algorithm](Algorithm)
 
-# 2. [Interview - 면접정리](interview)
+# 2. [Interview - 면접정리](Interview)
 
 # 3. Books - 책정리
 <table text-align="center">
