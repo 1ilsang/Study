@@ -8,5 +8,5 @@
 
 #### 1. [SW Expert Academy(SWEA)](SWEA)
 
-#### 2. [Baekjoon online judge(BOJ)](BOJ)
+#### 2. [Baekjoon Online Judge(BOJ)](BOJ)
 
