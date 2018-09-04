@@ -21,397 +21,149 @@ int n, m;
 int wall;
 int ans = 987654321;
 
-// lo 는 현재 위치
+int goR(int i) {
+	int nt = 1;
+	int cnt = 0;
+	while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
+		if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
+			nt++;
+		}
+		else {
+			visit[v[i].r][v[i].c + nt] = 1;
+			cnt++;
+			nt++;
+		}
+	}
+	return cnt;
+}
+
+int goD(int i) {
+	int cnt = 0;
+	int nt = 1;
+	while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
+		if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
+			nt++;
+		}
+		else {
+			visit[v[i].r + nt][v[i].c] = 1;
+			cnt++;
+			nt++;
+		}
+	}
+	return cnt;
+}
+
+int goL(int i) {
+	int cnt = 0;
+	int nt = 1;
+	while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
+		if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
+			nt++;
+		}
+		else {
+			visit[v[i].r][v[i].c - nt] = 1;
+			cnt++;
+			nt++;
+		}
+	}
+	return cnt;
+}
+
+int goU(int i) {
+	int cnt = 0;
+	int nt = 1;
+	while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
+		if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
+			nt++;
+		}
+		else {
+			visit[v[i].r - nt][v[i].c] = 1;
+			cnt++;
+			nt++;
+		}
+	}
+	return cnt;
+}
+
 void go(int lo) {
 
 	if (lo == v.size()) {
-		// 해당 내용 출력.
-	/*	for (int i = 0; i < v.size()	; i++) {
-			printf(" %d", chkLo[i]);
-		}puts("");*/
 		int ret = 0;
 		for (int i = 0; i < v.size(); i++) {
-			// 1 1 1. 1 1 2. 1 1 3 ---
-			int cnt = 1;
-			int nt = 1;
+			int cnt = 0;
 			switch (v[i].v)
 			{
 			case 1:
 				if (chkLo[i] == 0) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goR(i);
 				}
 				else if (chkLo[i] == 1) {
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goD(i);
 				}
 				else if (chkLo[i] == 2) {
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goL(i);
 				}
 				else if (chkLo[i] == 3) {
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goU(i);
 				}
 				break;
 			case 2:
 				if (chkLo[i] == 0 || chkLo[i] == 2) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goL(i);
+					cnt += goR(i);
 				}
 				else if (chkLo[i] == 1 || chkLo[i] == 3) {
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goD(i);
+					cnt += goU(i);
 				}
 				break;
 			case 3:
 				if (chkLo[i] == 0) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goU(i);
+					cnt += goR(i);
 				}
 				else if (chkLo[i] == 1) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goR(i);
+					cnt += goD(i);
 				}
 				else if (chkLo[i] == 2) {
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goD(i);
+					cnt += goL(i);
 				}
 				else if (chkLo[i] == 3) {
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goL(i);
+					cnt += goU(i);
 				}
 				break;
 			case 4:
 				if (chkLo[i] == 0) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goL(i);
+					cnt += goU(i);
+					cnt += goR(i);
 				}
 				else if (chkLo[i] == 1) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goU(i);
+					cnt += goR(i);
+					cnt += goD(i);
 				}
 				else if (chkLo[i] == 2) {
-					while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-						if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c + nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goR(i);
+					cnt += goD(i);
+					cnt += goL(i);
 				}
 				else if (chkLo[i] == 3) {
-					while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-						if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r + nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-						if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r][v[i].c - nt] = 1;
-							cnt++;
-							nt++;
-						}
-					}
-					nt = 1;
-					while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-						if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-							nt++;
-						}
-						else {
-							visit[v[i].r - nt][v[i].c] = 1;
-							cnt++;
-							nt++;
-						}
-					}
+					cnt += goD(i);
+					cnt += goL(i);
+					cnt += goU(i);
 				}
 				break;
 			case 5:
-				while (area[v[i].r][v[i].c + nt] != 6 && v[i].c + nt < m) {
-					if (visit[v[i].r][v[i].c + nt] == 1 || area[v[i].r][v[i].c + nt]) {
-						nt++;
-					}
-					else {
-						visit[v[i].r][v[i].c + nt] = 1;
-						cnt++;
-						nt++;
-					}
-				}
-				nt = 1;
-				while (area[v[i].r + nt][v[i].c] != 6 && v[i].r + nt < n) {
-					if (visit[v[i].r + nt][v[i].c] == 1 || area[v[i].r + nt][v[i].c]) {
-						nt++;
-					}
-					else {
-						visit[v[i].r + nt][v[i].c] = 1;
-						cnt++;
-						nt++;
-					}
-				}
-				nt = 1;
-				while (area[v[i].r][v[i].c - nt] != 6 && v[i].c - nt >= 0) {
-					if (visit[v[i].r][v[i].c - nt] == 1 || area[v[i].r][v[i].c - nt]) {
-						nt++;
-					}
-					else {
-						visit[v[i].r][v[i].c - nt] = 1;
-						cnt++;
-						nt++;
-					}
-				}
-				nt = 1;
-				while (area[v[i].r - nt][v[i].c] != 6 && v[i].r - nt >= 0) {
-					if (visit[v[i].r - nt][v[i].c] == 1 || area[v[i].r - nt][v[i].c]) {
-						nt++;
-					}
-					else {
-						visit[v[i].r - nt][v[i].c] = 1;
-						cnt++;
-						nt++;
-					}
-				}
+				cnt += goR(i);
+				cnt += goD(i);
+				cnt += goL(i);
+				cnt += goU(i);
 			}
-			ret += (cnt - 1);
+			ret += cnt;
 		}
 		memset(visit, 0, sizeof(visit));
 		ret += wall + v.size();
