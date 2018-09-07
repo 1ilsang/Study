@@ -1,11 +1,10 @@
 //https://www.acmicpc.net/problem/14888
-//
+//http://1ilsang.blog.me/221354590689
 
 #include <cstdio>
 
 int n;
 int num[12];
-// +, -, *, /
 int oper[12];
 int maxAns = -9999999999;
 int minAns = 9999999999;
@@ -17,25 +16,15 @@ void go(int lo, int v) {
 		return;
 	}
 
-	if (oper[0]) {
-		oper[0] -= 1;
-		go(lo + 1, v + num[lo + 1]);
-		oper[0]++;
-	}
-	if (oper[1]) {
-		oper[1] -= 1;
-		go(lo + 1, v - num[lo + 1]);
-		oper[1]++;
-	}
-	if (oper[2]) {
-		oper[2] -= 1;
-		go(lo + 1, v * num[lo + 1]);
-		oper[2]++;
-	}
-	if (oper[3]) {
-		oper[3] -= 1;
-		go(lo + 1, v / num[lo + 1]);
-		oper[3]++;
+	for (int i = 0; i < 4; i++) {
+		if (oper[i]) {
+			oper[i] -= 1;
+			if (i == 0) go(lo + 1, v + num[lo + 1]);
+			if (i == 1) go(lo + 1, v - num[lo + 1]);
+			if (i == 2) go(lo + 1, v * num[lo + 1]);
+			if (i == 3) go(lo + 1, v / num[lo + 1]);
+			oper[i]++;
+		}
 	}
 }
 
