@@ -6,7 +6,9 @@
 
 ### 정리
 
-#### 1. [각종 정렬 알고리즘 정리(Quick, Heap, Merge, Insertion, Selection, Bubble)](http://1ilsang.blog.me/221362450863)
+#### 1. [각종 정렬 알고리즘 정리 - Quick, Heap, Merge, Insertion, Selection, Bubble](http://1ilsang.blog.me/221362450863)
+
+#### 2. [단방향 링크드 리스트(연결리스트) 구현 - Reverse, Add, Delete](http://1ilsang.blog.me/221300304296)
 
 ### 풀고 있는 것들
 
