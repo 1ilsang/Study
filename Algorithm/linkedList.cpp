@@ -1,5 +1,5 @@
 // 단방향 연결리스트 추가-삭제-뒤집기
-//
+// http://1ilsang.blog.me/221300304296
 
 #include <stdio.h>
 #include <cstdlib>
