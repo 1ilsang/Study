@@ -4,6 +4,10 @@
 
 꾸준히 풀어야지!!!!!
 
+### 정리
+
+#### 1. [각종 정렬 알고리즘 정리(Quick, Heap, Merge, Insertion, Selection, Bubble)](http://1ilsang.blog.me/221362450863)
+
 ### 풀고 있는 것들
 
 #### 1. [SW Expert Academy(SWEA)](SWEA)
