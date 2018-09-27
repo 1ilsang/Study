@@ -10,6 +10,8 @@
 
 #### 2. [단방향 링크드 리스트(연결리스트) 구현 - Reverse, Add, Delete](http://1ilsang.blog.me/221300304296)
 
+#### 3. [에라토스테네스의 체, 거듭제곱 분할정복, n^n 순열 백트래킹](http://1ilsang.blog.me/221366753276)
+
 ### 풀고 있는 것들
 
 #### 1. [SW Expert Academy(SWEA)](SWEA)
