@@ -18,6 +18,8 @@
 
 #### 6. [트리 구현과 전위/중위/후위 순회하기](http://1ilsang.blog.me/221369626963)
 
+#### 7. [C++ unique, dequq(덱) 함수 사용하기](http://1ilsang.blog.me/221372942281)
+
 
 <p><br/>
 
