@@ -4,6 +4,14 @@
 
 꾸준히 풀어야지!!!!!
 
+### 풀고 있는 것들
+
+#### 1. [SW Expert Academy(SWEA)](SWEA)
+
+#### 2. [Backjoon Online Judge(BOJ)](BOJ)
+
+<p><br/>
+
 ### 정리
 
 #### 1. [각종 정렬 알고리즘 정리 - Quick, Heap, Merge, Insertion, Selection, Bubble](http://1ilsang.blog.me/221362450863)
@@ -19,13 +27,3 @@
 #### 6. [트리 구현과 전위/중위/후위 순회하기](http://1ilsang.blog.me/221369626963)
 
 #### 7. [C++ unique, dequq(덱) 함수 사용하기](http://1ilsang.blog.me/221372942281)
-
-
-<p><br/>
-
-### 풀고 있는 것들
-
-#### 1. [SW Expert Academy(SWEA)](SWEA)
-
-#### 2. [Baekjoon Online Judge(BOJ)](BOJ)
-
