@@ -28,6 +28,6 @@
 
 #### 7. [C++ unique, dequq(덱) 함수 사용하기](http://1ilsang.blog.me/221372942281)
 
-#### 8. [뿌요뿌요 - DFS / BFS / 중력 / 연쇄폭발](http://1ilsang.blog.me/221375526869)
+#### 8. [뿌요뿌요 - DFS / BFS / 중력 / 연쇄폭발 / 재귀배열](http://1ilsang.blog.me/221375526869)
 
 
