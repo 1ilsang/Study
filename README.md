@@ -109,8 +109,8 @@
 
 <td width="30%">
 
-<a href="http://1ilsang.blog.me/221173491878"><img width="70%" src="img/insideJS.jpg"></img></a>
-- [인사이드 자바스크립트 - 송형주, 고현준 (한빛미디어14)](http://1ilsang.blog.me/221173491878)
+<a href="index/insideJS.md"><img width="70%" src="img/insideJS.jpg"></img></a>
+- [인사이드 자바스크립트 - 송형주, 고현준 (한빛미디어14)](index/insideJS.md)
 </td>
 <td width="30%">
 
