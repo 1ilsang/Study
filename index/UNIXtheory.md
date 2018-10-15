@@ -22,24 +22,21 @@ UNIX, LINUX, Putty
 ```
 연습문제와 풀이
 ```
-#### Chapter 2. []()
+#### Chapter 3. [파일 다루기](https://1ilsang.blog.me/220490842826)
 ```
-
+cat, more, tall, cp, rm, mv, ln, touch
 ```
-
-#### Chapter 2. []()
+#### Chapter 4. [편집기 - vi 사용법 익히기 1](https://1ilsang.blog.me/220491837175)
 ```
-
+생성, 수정, 삭제, vi, :q, :wq, :q!, ZZ, cc, dd, yy, ...
 ```
-
-#### Chapter 2. []()
+#### Chapter 4. [편집기 - vi 사용법 익히기 2](https://1ilsang.blog.me/220496450528)
 ```
-
+검색, 변경, /, ?, n, N, :s, :%, :r, ...
 ```
-
-#### Chapter 2. []()
+#### Chapter 5. [배쉬 셀 활용하기](https://1ilsang.blog.me/220507421364)
 ```
-
+bash, echo, $SHELL, ~, \, >>, env, PATH, PWD, export, alias, prompt, .profile, .bashrc, source
 ```
 
 #### Chapter 2. []()
