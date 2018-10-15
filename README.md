@@ -127,8 +127,8 @@
 </td>
 <td width="30%">
 
-<a href="http://1ilsang.blog.me/220721246081"><img width="70%" src="img/열혈c.jpg"></img></a>
-- [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](http://1ilsang.blog.me/220721246081)
+<a href="https://github.com/1ilsang/Study/blob/master/index/HotBloodC.md"><img width="70%" src="img/열혈c.jpg"></img></a>
+- [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](index/HotBloodC.md)
 </td>
 <td width="30%">
 
