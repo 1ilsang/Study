@@ -28,7 +28,7 @@
 </td>
 <td width="30%">
  
-<a href="https://github.com/1ilsang/Study/blob/master/index/OS_PictureBook.md"><img width="70%" src="img/pictureOS.jpg"/></a>
+<a href="index/OS_PictureBook.md"><img width="70%" src="img/pictureOS.jpg"/></a>
 
 - [OS가 보이는 그림책](index/OS_PictureBook.md) <br/>
 
@@ -51,7 +51,7 @@
 </td>
 <td width="30%">
 
-<a href="https://github.com/1ilsang/Study/blob/master/index/HttpPerfect.md"><img width="70%" src="img/HTTPperfect.jpg" /></a>
+<a href="index/HttpPerfect.md"><img width="70%" src="img/HTTPperfect.jpg" /></a>
 
 - [HTTP 완벽 가이드](index/HttpPerfect.md)
 
@@ -127,7 +127,7 @@
 </td>
 <td width="30%">
 
-<a href="https://github.com/1ilsang/Study/blob/master/index/HotBloodC.md"><img width="70%" src="img/열혈c.jpg"></img></a>
+<a href="index/HotBloodC.md"><img width="70%" src="img/열혈c.jpg"></img></a>
 - [윤성우 열혈 C 프로그래밍 - 윤성우 (오렌지미디어10)](index/HotBloodC.md)
 </td>
 <td width="30%">
@@ -158,7 +158,7 @@
 <tr>
 <td width="30%">
 
-<a href="https://github.com/1ilsang/Study/blob/master/index/UNIXtheory.md"><img width="70%" src="img/unixHanbit.png"/></a>
+<a href="index/UNIXtheory.md"><img width="70%" src="img/unixHanbit.png"/></a>
 
 - [유닉스 이론과 실습 - 운소정,이종원 (한빛미디어17)](index/UNIXtheory.md)
 </td>
