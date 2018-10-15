@@ -50,23 +50,23 @@ grep, egrep, fgrep, find, type, which
 ```
 init, PID, 데몬, 고아, 좀비, ps, uid, kill, prstat, top, Background-process, job, who, su
 ```
-#### Chapter 9. []()
+#### Chapter 9. [파일 아카이브와 압축 명령 익히기](https://1ilsang.blog.me/220544094486)
 ```
-
+tar, tvf, jar, pack, compress, zip, bzip
 ```
-#### Chapter 10. []()
+#### Chapter 10. [인터넷과 통신 명령 익히기](https://1ilsang.blog.me/220549280635)
 ```
-
+write, wall, talk, mesg, mailx, hostname, nslookup, ping, finger, ftp
 ```
-#### Chapter 11. []()
+#### Chapter 11. [유틸리티 이용하기](https://1ilsang.blog.me/220549959299)
 ```
-
+wc, sort, split, uniq, cut, paste, dd
 ```
-#### Chapter 12. []()
+#### Chapter 12. [쉘의 이해](https://1ilsang.blog.me/220550590190)
 ```
-
+쉘의 기능, born, bash, C
 ```
-#### Chapter 13. []()
+#### Chapter 13. [배쉬 쉘 프로그래밍](https://1ilsang.blog.me/220565472888)
 ```
-
+쉘 스크립트, ${}, read, here, if, function, debugging, ...script
 ```
