@@ -24,7 +24,7 @@ UNIX, LINUX, Putty
 ```
 #### Chapter 3. [파일 다루기](https://1ilsang.blog.me/220490842826)
 ```
-cat, more, tall, cp, rm, mv, ln, touch
+cat, more, tall, cp, rm, mv, ln, 하드링크, 심볼릭링크, touch
 ```
 #### Chapter 4. [편집기 - vi 사용법 익히기 1](https://1ilsang.blog.me/220491837175)
 ```
@@ -38,13 +38,35 @@ cat, more, tall, cp, rm, mv, ln, touch
 ```
 bash, echo, $SHELL, ~, \, >>, env, PATH, PWD, export, alias, prompt, .profile, .bashrc, source
 ```
-
-#### Chapter 2. []()
+#### Chapter 6. [파일 접근 권한 관리하기](https://1ilsang.blog.me/220528994682)
+```
+rwxrwxrwx, groups, chmod, umask
+```
+#### Chapter 7. [파일과 디렉토리 다루기 - 검색](https://1ilsang.blog.me/220530322335)
+```
+grep, egrep, fgrep, find, type, which
+```
+#### Chapter 8. [프로세스와 사용자 명령 익히기](https://1ilsang.blog.me/220537174549)
+```
+init, PID, 데몬, 고아, 좀비, ps, uid, kill, prstat, top, Background-process, job, who, su
+```
+#### Chapter 9. []()
 ```
 
 ```
+#### Chapter 10. []()
+```
 
-#### Chapter 2. []()
+```
+#### Chapter 11. []()
+```
+
+```
+#### Chapter 12. []()
+```
+
+```
+#### Chapter 13. []()
 ```
 
 ```
