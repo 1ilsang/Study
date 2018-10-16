@@ -37,7 +37,7 @@
 <tr>
 <td width="30%">
 
-<a href="index/pictureHTTPbasic"><img width="70%" src="img/networkbasic.jpg"/></a>
+<a href="index/pictureHTTPbasic.md"><img width="70%" src="img/networkbasic.jpg"/></a>
 
 - [그림으로 배우는 HTTP & Network Basic](index/pictureHTTPbasic.md)
 업데이트 예정
