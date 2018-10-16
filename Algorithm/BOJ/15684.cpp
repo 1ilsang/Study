@@ -2,46 +2,37 @@
 //http://1ilsang.blog.me/221351638700
 
 #include <cstdio>
+#include <algorithm>
+using namespace std;
 
-int arr[31][11];
-int ans = 987654321;
 int n, m, h;
+int area[32][12];
 
-bool chk() {
-	for (int z = 1; z <= n; z++) {
-		int cur = z;
-		for (int i = 1; i <= h; i++) {
-			if (arr[i][cur] == 1) {
-				cur++;
-			}
-			else if (arr[i][cur - 1] == 1) {
-				cur--;
-			}
+bool chkAns() {
+	for (int i = 1; i < n; i++) {
+		int c = i;
+		for (int j = 1; j <= h; j++) {
+			if (area[j][c] == 1) c++;
+			else if (area[j][c - 1] == 1) c--;
 		}
-		if (cur == z) continue;
-		else return false;
+		if (c != i) return false;
 	}
 	return true;
 }
 
-void go(int r, int cnt, int mCnt) {
-	if (ans != 987654321) return;
-	if (cnt >= mCnt) {
-		if (chk()) {
-			ans = cnt;
-		}
-		return;
-	}
+bool go(int r, int cnt, int mCnt) {
+	if (cnt == mCnt) return chkAns();
+	bool ret = false;
 	for (int i = r; i <= h; i++) {
 		for (int j = 1; j < n; j++) {
-			if (arr[i][j] == 1 || arr[i][j - 1] == 1 || arr[i][j + 1] == 1) {
-				continue;
+			if (area[i][j] == 0 && area[i][j - 1] == 0 && area[i][j + 1] == 0) {
+				area[i][j] = 1;
+				ret = max(ret, go(i, cnt + 1, mCnt));
+				area[i][j] = 0;
 			}
-			arr[i][j] = 1;
-			go(i, cnt + 1, mCnt);
-			arr[i][j] = 0;
 		}
 	}
+	return ret;
 }
 
 int main(void) {
@@ -49,13 +40,15 @@ int main(void) {
 	for (int i = 0; i < m; i++) {
 		int a, b;
 		scanf("%d %d", &a, &b);
-		arr[a][b] = 1;
+		area[a][b] = 1;
 	}
-	// 사다리를 놓는 횟수
+	int ans = 999;
 	for (int i = 0; i < 4; i++) {
-		go(1, 0, i);
-		if (ans != 987654321) break;
+		if (go(1, 0, i)) {
+			ans = i;
+			break;
+		}
 	}
-	ans == 987654321 ? printf("-1\n") : printf("%d\n", ans);
+	ans == 999 ? printf("-1\n") : printf("%d\n", ans);
 	return 0;
 }
