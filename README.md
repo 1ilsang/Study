@@ -37,9 +37,9 @@
 <tr>
 <td width="30%">
 
-<a href="http://1ilsang.blog.me/221257888202"><img width="70%" src="img/networkbasic.jpg"/></a>
+<a href="index/pictureHTTPbasic"><img width="70%" src="img/networkbasic.jpg"/></a>
 
-- [그림으로 배우는 HTTP & Network Basic](http://1ilsang.blog.me/221257888202)
+- [그림으로 배우는 HTTP & Network Basic](index/pictureHTTPbasic.md)
 업데이트 예정
 </td>
 <td width="30%">
