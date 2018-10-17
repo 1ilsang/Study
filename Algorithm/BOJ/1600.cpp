@@ -1,5 +1,5 @@
 //https://www.acmicpc.net/problem/1600
-//
+//http://1ilsang.blog.me/221379416759
 
 #include <cstdio>
 #include <queue>
