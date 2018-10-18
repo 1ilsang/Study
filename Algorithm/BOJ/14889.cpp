@@ -52,7 +52,7 @@ int main(void) {
 
 //////////////////////////////////////////////////////////////////////
 //2018. 09
-#include <cstdio>
+//#include <cstdio>
 //#include <vector>
 //#include <cmath>
 //using namespace std;
