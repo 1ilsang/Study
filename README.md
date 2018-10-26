@@ -14,16 +14,31 @@
 <tr>
 <td width="30%">
  
-<a href=""><img width="70%" src="img/gcpBegin.jpg"/></a>
+<a href="index/guguSpring.md"><img width="70%" src="img/guguSpring.jpg"/></a>
 
-- [구글 클라우드 플랫폼 입문]() <br/>
+- [코드로 배우는 스프링 웹 프로젝트](index/guguSpring.md) <br/>
 읽는중
 </td>
 <td width="30%">
+ 
+</td>
+<td width="30%">
+ 
+</td>
+</tr>
+<tr>
+<td width="30%">
+ 
+<img width="70%" src="img/gcpBegin.jpg"/>
 
-<a href=""><img width="70%" src="img/linux_os.png"/></a>
+- 구글 클라우드 플랫폼 입문 <br/>
+ 
+</td>
+<td width="30%">
 
-- [리눅스 운영체제의 이해와 개발]() <br/>
+<img width="70%" src="img/linux_os.png"/>
+
+- 리눅스 운영체제의 이해와 개발 <br/>
 
 </td>
 <td width="30%">
@@ -62,14 +77,14 @@
 
 <a href="https://github.com/1ilsang/TypeScript-Quick-Start"><img width="70%" src="img/quickTypeScript.jpg"></img></a>
 - [TypeScript 퀵 스타트 - 정진욱 (루비페이퍼)](https://github.com/1ilsang/TypeScript-Quick-Start)
- 공부중...
+ 
 </td>
 
 <td width="30%">
 
 <a href="index/TcpIpPictureBook.md"><img width="70%" src="img/pictureTcpip.png"></img></a>
 - [Tcp/Ip가 보이는 그림책](index/TcpIpPictureBook.md)
-공부중...
+
 </td>
 
 <td width="30%" >
