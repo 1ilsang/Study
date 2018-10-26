@@ -13,7 +13,14 @@
 slack
 ```
 
-#### 1. [스프링 개발 환경 구축]()
+#### 1. [스프링 개발 환경 구축 - 1](http://1ilsang.blog.me/221385911861)
+- 다운로드 및 프로젝트 설정, 구조, xml의 태그들 설명
 ```javascript
-Install - IntelliJ, Gradle / Create first project, Lombok, 추가중
+IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
+```
+
+#### 1. [스프링 개발 환경 구축 - 2]()
+- 스프링 특징과 의존성
+```javascript
+읽는중
 ```
