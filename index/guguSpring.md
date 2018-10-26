@@ -19,7 +19,7 @@ slack
 IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
 ```
 
-#### 1. [스프링 개발 환경 구축 - 2]()
+#### 2. [스프링 개발 환경 구축 - 2]()
 - 스프링 특징과 의존성
 ```javascript
 읽는중
