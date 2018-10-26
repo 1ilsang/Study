@@ -15,5 +15,5 @@ slack
 
 #### 1. [스프링 개발 환경 구축]()
 ```javascript
-공부중
+Install - IntelliJ, Gradle / Create first project, Lombok, 추가중
 ```
