@@ -8,9 +8,11 @@
 >
 > 2018.10.26 공부시작
 
+[코드 레파지토리로 이동](https://github.com/1ilsang/guguSpring)
+
 #### 0. [책 선정 이유](http://1ilsang.blog.me/221385767739)
 ```javascript
-slack
+slack, youtube, ...
 ```
 
 #### 1. [스프링 개발 환경 구축 - 1](http://1ilsang.blog.me/221385911861)
