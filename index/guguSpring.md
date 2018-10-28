@@ -21,8 +21,14 @@ slack, youtube, ...
 IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
 ```
 
-#### 2. [스프링 개발 환경 구축 - 2]()
-- 스프링 특징과 의존성
+#### 2. [스프링 개발 환경 구축 - 2](http://1ilsang.blog.me/221386784142)
+- 스프링 역사, 특징, 의존성, 동작과정, 테스트
 ```javascript
+POJO, DI, AOP, Bean, JUnit, @Data, @Component, @Autowired
+```
+
+#### 3. [스프링 개발 환경 구축 - 3]()
+- 스프링과 Oracle DB 연동하기
+```
 읽는중
 ```
