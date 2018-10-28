@@ -27,8 +27,8 @@ IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
 POJO, DI, AOP, Bean, JUnit, @Data, @Component, @Autowired
 ```
 
-#### 3. [번외) xml을 걷어내고 javaConfig로 스프링 설정하기](http://1ilsang.blog.me/221386967274)
-- 위에서 만든 xml 파일을 javaConfig 로 대체합니다.
+#### 3. [xml을 걷어내고 javaConfig로 스프링 설정하기](http://1ilsang.blog.me/221386967274)
+- 위에서 만든 xml 파일을 javaConfig 로 대체합니다. 이후의 내용은 javaConfig 로 진행.
 ```
 xml, javaconfig
 ```
