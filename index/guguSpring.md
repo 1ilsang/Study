@@ -16,7 +16,7 @@ slack, youtube, ...
 ```
 
 #### 1. [스프링 개발 환경 구축 - 1](http://1ilsang.blog.me/221385911861)
-- 다운로드 및 프로젝트 설정, 구조, xml의 태그들 설명
+- 다운로드 및 프로젝트 설정, 버전, 구조, xml의 태그들 설명
 ```javascript
 IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
 ```
@@ -33,8 +33,14 @@ POJO, DI, AOP, Bean, JUnit, @Data, @Component, @Autowired
 xml, javaconfig
 ```
 
-#### 3. [스프링 개발 환경 구축 - 3]()
-- 스프링과 Oracle DB 연동하기
+#### 4. [스프링 개발 환경 구축 - 3]()
+- 스프링과 Oracle DB 연동하기, 테스트코드, 커넥션 풀
+```
+Oracle 11g XE, SQL Developer, sethttpport(), JDBC, DataSource, HikariCP, @Bean
+```
+
+#### 5. [스프링 개발 환경 구축 - 4]()
+- 스프링과 Mybatis 연동하기
 ```
 읽는중
 ```
