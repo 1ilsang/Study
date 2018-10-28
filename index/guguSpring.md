@@ -33,8 +33,8 @@ POJO, DI, AOP, Bean, JUnit, @Data, @Component, @Autowired
 xml, javaconfig
 ```
 
-#### 4. [스프링 개발 환경 구축 - 3]()
-- 스프링과 Oracle DB 연동하기, 테스트코드, 커넥션 풀
+#### 4. [스프링 개발 환경 구축 - 3](http://1ilsang.blog.me/221386988019)
+- 스프링과 Oracle DB 연동하기, 테스트 코드, 커넥션 풀
 ```
 Oracle 11g XE, SQL Developer, sethttpport(), JDBC, DataSource, HikariCP, @Bean
 ```
