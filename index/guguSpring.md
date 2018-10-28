@@ -27,6 +27,12 @@ IntelliJ, Gradle, Lombok, Tomcat, web.xml, servlet-context.xml
 POJO, DI, AOP, Bean, JUnit, @Data, @Component, @Autowired
 ```
 
+#### 3. [번외) xml을 걷어내고 javaConfig로 스프링 설정하기](http://1ilsang.blog.me/221386967274)
+- 위에서 만든 xml 파일을 javaConfig 로 대체합니다.
+```
+xml, javaconfig
+```
+
 #### 3. [스프링 개발 환경 구축 - 3]()
 - 스프링과 Oracle DB 연동하기
 ```
