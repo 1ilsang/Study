@@ -39,8 +39,13 @@ xml, javaconfig
 Oracle 11g XE, SQL Developer, sethttpport(), JDBC, DataSource, HikariCP, @Bean
 ```
 
-#### 5. [스프링 개발 환경 구축 - 4]()
-- 스프링과 Mybatis 연동하기
+#### 5. [스프링 개발 환경 구축 - 4](http://1ilsang.blog.me/221387558377)
+- 스프링과 Mybatis 연동하기, 매핑, log4j 레벨설정
+```
+mybatis-spring, spring-jdbc, SQLSessionFactory, Mapper-Interface, Xml-Mapper, log4jdbc-log4j2, log4j-level
+```
+
+#### 6. [스프링 MVC 설정 - 1]()
 ```
 읽는중
 ```
