@@ -50,7 +50,7 @@ mybatis-spring, spring-jdbc, SQLSessionFactory, Mapper-Interface, Xml-Mapper, lo
 
 #### 6. [스프링 MVC 설정 - 1]()
 ```
-읽는중
+비공개
 ```
 
 - - -
