@@ -2,7 +2,11 @@
 
 > 풀리퀘 날려주시면 추가하도록 하겠습니다.
 
-=
+===
+
+- #### [2018 개발자 로드맵](https://github.com/devJang/developer-roadmap)
+
+- #### [자바지기(박재성)님의 자바 웹개발자 학습로드맵 참석 후기](https://jojoldu.tistory.com/46)
 
 - #### [웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 
