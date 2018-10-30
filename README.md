@@ -12,6 +12,7 @@
 # 3. [개발자에게 좋은 글 / 정보](knowledge)
 
 # 4. Books - 책정리
+- 책 없이 그냥 보시면 의미가 없습니다.
 <table text-align="center">
 <tr>
 <td width="30%">
