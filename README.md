@@ -20,7 +20,7 @@
 <a href="index/guguSpring.md"><img width="70%" src="img/guguSpring.jpg"/></a>
 
 - [코드로 배우는 스프링 웹 프로젝트](index/guguSpring.md) <br/>
-읽는중
+
 </td>
 <td width="30%">
  
