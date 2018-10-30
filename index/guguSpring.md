@@ -48,10 +48,8 @@ Oracle 11g XE, SQL Developer, sethttpport(), JDBC, DataSource, HikariCP, @Bean
 mybatis-spring, spring-jdbc, SQLSessionFactory, Mapper-Interface, Xml-Mapper, log4jdbc-log4j2, log4j-level
 ```
 
-#### 6. [스프링 MVC 설정 - 1]()
-```
-비공개
-```
+#### 6. 스프링 MVC 설정 - 1
+- 이후 내용은 비공개
 
 - - -
 #### [뒤로 가기](./../../..)
