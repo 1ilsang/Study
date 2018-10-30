@@ -6,6 +6,9 @@
 >링크를 클릭하시면 상세 정리 페이지로 이동합니다. <br/>
 > 2015. 09 <br/>
 
+* 책 없이 보시면 의미가 없는 포스트입니다.
+* 좋은 책 써주신 저자를 위해서라도 꼭 구입하시고 봐주세요.
+
 #### Chapter 0. [UNIX를 시작해보자!](https://1ilsang.blog.me/220488881655)
 ```
 UNIX, LINUX, Putty
@@ -70,3 +73,5 @@ wc, sort, split, uniq, cut, paste, dd
 ```
 쉘 스크립트, ${}, read, here, if, function, debugging, ...script
 ```
+- - -
+#### [목차 가기](./../../../)
