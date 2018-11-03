@@ -34,40 +34,8 @@ GoF의 23패턴, 순차 다이어그램, 컬레보레이션, 어커런스
 Strategy, 전략
 ```
 
-#### 6. [싱글톤 패턴](http://1ilsang.blog.me/221149881492)
-```javascript
-Singleton
-```
-
-#### 7. [스테이트 패턴](http://1ilsang.blog.me/221149951222)
-```javascript
-State
-```
-
-#### 8. [커맨드 패턴](http://1ilsang.blog.me/221150696602)
-```javascript
-Command
-```
-
-#### 9. [옵저버 패턴](http://1ilsang.blog.me/221150802437)
-```javascript
-Observer
-```
-
-#### 10. [데코레이터 패턴](http://1ilsang.blog.me/221151262547)
-```javascript
-Decorator
-```
-
-#### 11. [템플릿 메서드 패턴](http://1ilsang.blog.me/221159883959)
-```javascript
-Template Method
-```
-
-#### 12. [팩토리 메서드 패턴](http://1ilsang.blog.me/221160033644)
-```javascript
-Factory Method
-```
+#### 6. 싱글톤 패턴
+- 이후 내용은 비공개
 
 - - -
 #### [뒤로 가기](./../../..)
