@@ -21,26 +21,8 @@ null, undefined, 함수, for in, ==, ===, 참조, 프로토타입, 배열, splic
 ```
 함수 호이스팅, Function prototype, length, constructor, 콜백, 즉시 실행, this, that
 ```
-#### Chapter 4. [함수와 프로토타입 체이닝 2](http://1ilsang.blog.me/221173972114)
-```
-call, apply, 함수리턴, 프로토타입 체이닝
-```
-#### Chapter 5. [실행 컨텍스트와 클로저](http://1ilsang.blog.me/221175438760)
-```
-스코프 체인, 호이스팅, 자유 변수
-```
-#### Chapter 6. [객체지향 프로그래밍](http://1ilsang.blog.me/221175521475)
-```
-생성자, 상속, extend
-```
-#### Chapter 7. [함수형 프로그래밍](http://1ilsang.blog.me/221219518293)
-```
-순수 함수, 고계 함수, reduce, 커링, bind, wrapper
-```
-#### Chapter 8. [jQuery 소스 코드 분석](http://1ilsang.blog.me/221219625700)
-```
-냉무
-```
+#### Chapter 4. 함수와 프로토타입 체이닝
+- 이후 내용은 비공개
 
 - - -
 #### [뒤로 가기](./../../..)
