@@ -33,45 +33,8 @@ cat, more, tall, cp, rm, mv, ln, 하드링크, 심볼릭링크, touch
 ```
 생성, 수정, 삭제, vi, :q, :wq, :q!, ZZ, cc, dd, yy, ...
 ```
-#### Chapter 4. [편집기 - vi 사용법 익히기 2](https://1ilsang.blog.me/220496450528)
-```
-검색, 변경, /, ?, n, N, :s, :%, :r, ...
-```
-#### Chapter 5. [배쉬 셀 활용하기](https://1ilsang.blog.me/220507421364)
-```
-bash, echo, $SHELL, ~, \, >>, env, PATH, PWD, export, alias, prompt, .profile, .bashrc, source
-```
-#### Chapter 6. [파일 접근 권한 관리하기](https://1ilsang.blog.me/220528994682)
-```
-rwxrwxrwx, groups, chmod, umask
-```
-#### Chapter 7. [파일과 디렉토리 다루기 - 검색](https://1ilsang.blog.me/220530322335)
-```
-grep, egrep, fgrep, find, type, which
-```
-#### Chapter 8. [프로세스와 사용자 명령 익히기](https://1ilsang.blog.me/220537174549)
-```
-init, PID, 데몬, 고아, 좀비, ps, uid, kill, prstat, top, Background-process, job, who, su
-```
-#### Chapter 9. [파일 아카이브와 압축 명령 익히기](https://1ilsang.blog.me/220544094486)
-```
-tar, tvf, jar, pack, compress, zip, bzip
-```
-#### Chapter 10. [인터넷과 통신 명령 익히기](https://1ilsang.blog.me/220549280635)
-```
-write, wall, talk, mesg, mailx, hostname, nslookup, ping, finger, ftp
-```
-#### Chapter 11. [유틸리티 이용하기](https://1ilsang.blog.me/220549959299)
-```
-wc, sort, split, uniq, cut, paste, dd
-```
-#### Chapter 12. [쉘의 이해](https://1ilsang.blog.me/220550590190)
-```
-쉘의 기능, born, bash, C
-```
-#### Chapter 13. [배쉬 쉘 프로그래밍](https://1ilsang.blog.me/220565472888)
-```
-쉘 스크립트, ${}, read, here, if, function, debugging, ...script
-```
+#### Chapter 4. 편집기 - vi 사용법 익히기 2
+- 이후 내용은 비공개
+
 - - -
 #### [목차 가기](./../../../)
