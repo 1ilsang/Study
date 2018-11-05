@@ -19,19 +19,25 @@
  
 <a href="index/guguSpring.md"><img width="70%" src="img/guguSpring.jpg"/></a>
 
-- [코드로 배우는 스프링 웹 프로젝트](index/guguSpring.md) <br/>
+- [코드로 배우는 스프링 웹 프젝](index/guguSpring.md) <br/>
 
 </td>
 <td width="30%">
 
 <img width="70%" src="img/javaInterview.jpg"/>
 
-- JAVA 프로그래밍 면접 이렇게 준비한다. <br/>
+- JAVA 프로그래밍 면접 이렇게 준비한다 <br/>
 
 읽는중
 
 </td>
 <td width="30%">
+ 
+<img width="70%" src="img/jpaBeginner.jpg"/>
+
+- JPA 프로그래밍 입문 <br/>
+ 
+ 읽는중
  
 </td>
 </tr>
