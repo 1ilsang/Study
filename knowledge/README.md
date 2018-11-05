@@ -18,6 +18,9 @@
 
 - #### [JAVA) String vs StringBuffer vs StringBuilder](http://effectivesquid.tistory.com/entry/String-vs-StringBuffer-vs-StringBuilder)
 
+- #### [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
+
+- #### [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html)
 - - -
 
 #### [뒤로 가기](./../../..)
