@@ -23,6 +23,9 @@
 - #### [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 
 - #### [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html)
+
+- #### [JVM, GC 간략 정리](https://yckwon2nd.blogspot.com/2014/04/garbage-collection.html?m=1)
+
 - - -
 
 #### [뒤로 가기](./../../..)
