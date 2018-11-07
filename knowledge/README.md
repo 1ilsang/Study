@@ -4,6 +4,8 @@
 
 <hr/>
 
+- #### [길벗 출판사 IT책들 모음](https://thebook.io/)
+
 - #### [2018 개발자 로드맵](https://github.com/devJang/developer-roadmap)
 
 - #### [자바지기(박재성)님의 자바 웹개발자 학습로드맵 참석 후기](https://jojoldu.tistory.com/46)
