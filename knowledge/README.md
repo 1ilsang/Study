@@ -24,7 +24,9 @@
 
 - #### [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html)
 
-- #### [JVM, GC 간략 정리](https://yckwon2nd.blogspot.com/2014/04/garbage-collection.html?m=1)
+- #### [JVM, GC 정리](https://yckwon2nd.blogspot.com/2014/04/garbage-collection.html?m=1)
+
+- #### [JVM 간단 정리](http://asfirstalways.tistory.com/158)
 
 - - -
 
