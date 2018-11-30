@@ -28,6 +28,8 @@
 
 - #### [JVM 간단 정리](http://asfirstalways.tistory.com/158)
 
+- #### [TCP 연결 종료와 비정상 종료 4 way handshake (FIN_WAIT_1, FIN_WAIT_2, CLOSE_WAIT, LAST_ACK, TIME_WAIT)](http://hyeonstorage.tistory.com/287)
+
 - - -
 
 #### [뒤로 가기](./../../..)
