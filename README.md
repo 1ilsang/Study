@@ -33,9 +33,9 @@
 </td>
 <td width="30%">
  
-<img width="70%" src="img/jpaBeginner.jpg"/>
+<img width="70%" src="img/masteringSpringCloud.png"/>
 
-- JPA 프로그래밍 입문 <br/>
+- 마스터링 스프링 클라우드 <br/>
  
  읽는중
  
