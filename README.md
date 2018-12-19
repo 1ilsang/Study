@@ -33,7 +33,7 @@
 </td>
 <td width="30%">
  
-<img width="70%" src="img/masteringSpringCloud.png"/>
+<img width="100%" src="img/masteringSpringCloud.png"/>
 
 - 마스터링 스프링 클라우드 <br/>
  
