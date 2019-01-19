@@ -42,7 +42,9 @@
 
 #### 14. [다익스트라 - 왔다갔다 최단 경로 찾기](https://blog.naver.com/1ilsang/221420532745)
 
-#### 15. [비트마스크 사용하기](http://1ilsang.blog.me/221442344756)
+#### 15. [비트마스크 입문](http://1ilsang.blog.me/221446095017)
+
+#### 15. [비트마스크 활용 - BFS](http://1ilsang.blog.me/221442344756)
 
 #### 16. [Nap-sack 배낭 문제](http://1ilsang.blog.me/221438509136)
 
