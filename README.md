@@ -44,7 +44,7 @@
  
 <img width="70%" src="img/gcpBegin.jpg"/>
 
-- 구글 클라우드 플랫폼 입문 <br/>
+- 구글 클라우드 플랫폼 입문  <br/>
  
 </td>
 <td width="30%">
