@@ -52,7 +52,7 @@
 <img width="70%" src="img/linux_os.png"/>
 
 - 리눅스 운영체제의 이해와 개발 <br/>
-
+ 
 </td>
 <td width="30%">
  
