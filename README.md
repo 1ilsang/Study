@@ -12,6 +12,14 @@
 # 4. Books - 책정리
 - 책 없이 그냥 보시면 의미가 없습니다.
 <table text-align="center">
+ <tr>
+  <td width="30%">
+   <a href="index/netty.md"><img width="70%" src="img/netty.jpg"/></a>
+   
+   - [자바 네트워크 소녀 Netty](index/netty.md) <br/>
+   
+   </td>
+ </tr>
 <tr>
 <td width="30%">
  
