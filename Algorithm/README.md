@@ -50,6 +50,8 @@
 
 #### 17. [BFS 를 조금 다르게 접근하기 - Set](http://1ilsang.blog.me/221445986259)
 
+#### 18. [Kruskal 과 Union-find 로 문제풀기](http://1ilsang.blog.me/221470205431)
+
 - - -
 
 #### [뒤로 가기](./../../..)
