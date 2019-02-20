@@ -44,13 +44,13 @@
 
 #### 15. [비트마스크 입문](http://1ilsang.blog.me/221446095017)
 
-#### 15. [비트마스크 활용 - BFS](http://1ilsang.blog.me/221442344756)
+#### 16. [비트마스크 활용 - BFS](http://1ilsang.blog.me/221442344756)
 
-#### 16. [Nap-sack 배낭 문제](http://1ilsang.blog.me/221438509136)
+#### 17. [Nap-sack 배낭 문제](http://1ilsang.blog.me/221438509136)
 
-#### 17. [BFS 를 조금 다르게 접근하기 - Set](http://1ilsang.blog.me/221445986259)
+#### 18. [BFS 를 조금 다르게 접근하기 - Set](http://1ilsang.blog.me/221445986259)
 
-#### 18. [Kruskal 과 Union-find 로 문제풀기](http://1ilsang.blog.me/221470205431)
+#### 19. [Kruskal 과 Union-find 로 문제풀기](http://1ilsang.blog.me/221470205431)
 
 - - -
 
