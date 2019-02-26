@@ -1,4 +1,5 @@
 //https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18KWf6ItECFAZN
+//http://1ilsang.blog.me/221475165220
 
 import java.io.BufferedReader;
 import java.io.IOException;
