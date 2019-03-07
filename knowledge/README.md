@@ -30,6 +30,8 @@
 
 - #### [TCP 연결 종료와 비정상 종료 4 way handshake (FIN_WAIT_1, FIN_WAIT_2, CLOSE_WAIT, LAST_ACK, TIME_WAIT)](http://hyeonstorage.tistory.com/287)
 
+- #### [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
+
 - - -
 
 #### [뒤로 가기](./../../..)
