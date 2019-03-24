@@ -1,33 +1,26 @@
 //https://www.acmicpc.net/problem/11722
+//http://1ilsang.blog.me/221496245689
 
-import java.io.*;
-import java.util.Stack;
-import java.util.StringTokenizer;
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
-        Stack<Integer> stack = new Stack<>();
-        int n = Integer.parseInt(br.readLine());
-        int[] arr = new int[n + 1];
-        
-        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-
-        for (int i = 1; i <= n; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
-            while(!stack.empty()) {
-                if(arr[stack.peek()] > arr[i]) {
-                    sb.append(stack.peek());
-                    break;
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] list = new int[n];
+        int[] dp = new int[n];
+        int ans = 0;
+        for (int i = 0; i < n; i++) list[i] = sc.nextInt();
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i] = 1;
+            int nowMaxN = list[i];
+            for (int j = i + 1; j < n; j++) {
+                if (nowMaxN > list[j]) {
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
                 }
-                stack.pop();
             }
-            if(stack.empty()) sb.append(0);
-            stack.push(i);
-            if(i != n) sb.append(" ");
+            if (dp[i] > ans) ans = dp[i];
         }
-        System.out.print(sb);
-        br.close();
+        System.out.println(ans);
     }
 }
