@@ -54,6 +54,10 @@
 
 #### 20. [Suffix Array, LCP : 접미사 배열과 최장공통접두사 사용하기](http://1ilsang.blog.me/221475165220)
 
+#### 21. [Rabin karp, KMP](http://1ilsang.blog.me/221502910608)
+
+#### 22. [Hash chaining 구현하기](http://1ilsang.blog.me/221502915637)
+
 - - -
 
 #### [뒤로 가기](./../../..)
