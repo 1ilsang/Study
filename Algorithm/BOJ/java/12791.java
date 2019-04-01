@@ -123,7 +123,11 @@ public class Main {
 
         void add(int key, String value) {
             if (arr[key] == null) arr[key] = new Node(value);
-            else arr[key].next = new Node(value);
+            else {
+                Node tmp = arr[key];
+                while(tmp.next != null) tmp = tmp.next;
+                tmp.next = new Node(value);
+            }
         }
 
         void remove(int key, String value) {
