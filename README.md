@@ -19,6 +19,12 @@
    - [자바 네트워크 소녀 Netty](index/netty.md) <br/>
    
    </td>
+   <td width="30%">
+   <a href="http://1ilsang.blog.me/221520656762"><img width="70%" src="https://postfiles.pstatic.net/MjAxOTA0MjNfMTgz/MDAxNTU1OTk4Mjg3NzI1.CCjhFYBYRw-np69MHkvqOITJziu0r073p5pxrD0f650g.8Kq07yhshu4k39lO2e8YgdoApcmlt9OArcaAK52-sggg.PNG.1ilsang/image.png?type=w966"/></a>
+   
+   - [OS? Oh Yes!](http://1ilsang.blog.me/221520656762) <br/>
+   
+   </td>
  </tr>
 <tr>
 <td width="30%">
