@@ -48,7 +48,7 @@
 
 #### 16. [비트마스크 활용 - BFS](http://1ilsang.blog.me/221442344756)
 
-#### 17. [Nap-sack 배낭 문제](http://1ilsang.blog.me/221438509136)
+#### 17. [Knap-sack 배낭 문제](http://1ilsang.blog.me/221438509136)
 
 #### 18. [BFS 를 조금 다르게 접근하기 - Set](http://1ilsang.blog.me/221445986259)
 
