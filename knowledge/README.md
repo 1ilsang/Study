@@ -32,6 +32,8 @@
 
 - #### [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
 
+- #### [Is Java Call by R? V?](https://brunch.co.kr/@kd4/2)
+
 - - -
 
 #### [뒤로 가기](./../../..)
