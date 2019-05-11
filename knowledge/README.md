@@ -22,6 +22,8 @@
 
 - #### [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 
+- #### [Java GC 상세](https://perfectacle.github.io/2019/05/07/jvm-gc-basic/)
+
 - #### [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/html/index.html)
 
 - #### [JVM, GC 정리](https://yckwon2nd.blogspot.com/2014/04/garbage-collection.html?m=1)
