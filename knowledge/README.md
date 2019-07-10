@@ -34,6 +34,8 @@
 
 - #### [고급 Bash 스크립팅 가이드](https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/)
 
+- #### [배쉬 쉘 설명과 명령어](https://blog.gaerae.com/2015/01/bash-hello-world.html)
+
 - #### [Is Java Call by R? V?](https://brunch.co.kr/@kd4/2)
 
 - #### [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/?fbclid=IwAR3mvHr93Mn3VoVWxwEizNO2_mHmp7IpD2tJat8eDf234wb4tBai9CVZir8)
