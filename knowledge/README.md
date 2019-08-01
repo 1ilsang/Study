@@ -48,6 +48,16 @@
 
 - #### [JavaScript : Scope 이해](http://www.nextree.co.kr/p7363/)
 
+- #### [소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)
+
+- #### [Docker compose 사용하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
+
+- #### [컴퓨터가 만드는 랜덤은 진짜 랜덤할까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
+
+- #### [Node.js 내부 동작](https://sjh836.tistory.com/149)
+
+- #### [Event-Loop Part 2 : setTimeout() vs setImmediate() vs process.nextTick()](https://medium.com/@rpf5573/nodejs-event-loop-part-2-settimeout-vs-setimmediate-vs-process-nexttick-70ba2a9f0895)
+
 - - -
 
 #### [뒤로 가기](./../../..)
