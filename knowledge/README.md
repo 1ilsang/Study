@@ -60,6 +60,8 @@
 
 - #### [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow)
 
+- #### [VScode extensions for JS developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers/)
+
 - - -
 
 #### [뒤로 가기](./../../..)
