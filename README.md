@@ -25,6 +25,12 @@
    - [OS? Oh Yes!](http://1ilsang.blog.me/221520656762) <br/>
    
    </td>
+   <td>
+   <a href="#"><img width="70%" src="img/nodeDesignPattern.png" alt="Node.js design pattern image" /></a>
+
+   - Node.js 디자인 패턴
+
+   </td>
  </tr>
 <tr>
 <td width="30%">
@@ -36,11 +42,9 @@
 </td>
 <td width="30%">
 
-<img width="70%" src="img/javaInterview.jpg"/>
+<a href="https://1ilsang.blog.me/221611388697"><img width="70%" src="img/javaInterview.jpg"/></a>
 
-- JAVA 프로그래밍 면접 이렇게 준비한다 <br/>
- 
-읽는중
+- [프로그래밍 면접 이렇게 준비한다](https://1ilsang.blog.me/221611388697) <br/>
 
 </td>
 <td width="30%">
