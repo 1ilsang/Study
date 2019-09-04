@@ -3,7 +3,6 @@
 > 풀리퀘 날려주시면 추가하도록 하겠습니다.
 
 <hr/>
-
 - #### [길벗 출판사 IT책들 모음](https://thebook.io/)
 
 - #### [2018 개발자 로드맵](https://github.com/devJang/developer-roadmap)
@@ -63,6 +62,10 @@
 - #### [VScode extensions for JS developers](https://www.sitepoint.com/vs-code-extensions-javascript-developers/)
 
 - #### [Using NVM](https://gist.github.com/nijicha/e5615548181676873118df79953cb709)
+
+- #### [자바 직렬화, 그것이 알고싶다. 훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
+
+- #### [자바 직렬화, 그것이 알고싶다. 실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 
 - #### [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know/)
 
