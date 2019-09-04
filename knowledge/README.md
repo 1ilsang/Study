@@ -3,6 +3,7 @@
 > 풀리퀘 날려주시면 추가하도록 하겠습니다.
 
 <hr/>
+
 - #### [길벗 출판사 IT책들 모음](https://thebook.io/)
 
 - #### [2018 개발자 로드맵](https://github.com/devJang/developer-roadmap)
@@ -72,6 +73,8 @@
 - #### [JavaScript Prototype 이해하기](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
 
 - #### [JS class 소개](https://infoscis.github.io/2018/02/13/ecmascript-6-introducing-javascript-classes/)
+
+- #### [Gatsby 로 Blog 만들기](https://medium.com/@pks2974/gatsby-%EB%A1%9C-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0-ac3eed48e068)
 
 - - -
 
