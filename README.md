@@ -22,8 +22,14 @@
    <td width="30%">
    <a href="http://1ilsang.blog.me/221520656762"><img width="70%" src="https://postfiles.pstatic.net/MjAxOTA0MjNfMTgz/MDAxNTU1OTk4Mjg3NzI1.CCjhFYBYRw-np69MHkvqOITJziu0r073p5pxrD0f650g.8Kq07yhshu4k39lO2e8YgdoApcmlt9OArcaAK52-sggg.PNG.1ilsang/image.png?type=w966"/></a>
    
-   - [OS? Oh Yes!](http://1ilsang.blog.me/221520656762) <br/>
+   - [OS? Oh Yes!](http://1ilsang.blog.me/221520656762)  <br/>
    
+   </td>
+   <td>
+   <a href="#"><img width="70%" src="img/nodeDesignPattern.png" alt="Node.js design pattern image" /></a>
+
+   - Node.js 디자인 패턴
+
    </td>
  </tr>
 <tr>
@@ -36,11 +42,9 @@
 </td>
 <td width="30%">
 
-<img width="70%" src="img/javaInterview.jpg"/>
+<a href="https://1ilsang.blog.me/221611388697"><img width="70%" src="img/javaInterview.jpg"/></a>
 
-- JAVA 프로그래밍 면접 이렇게 준비한다 <br/>
- 
-읽는중
+- [프로그래밍 면접 이렇게 준비한다](https://1ilsang.blog.me/221611388697) <br/>
 
 </td>
 <td width="30%">

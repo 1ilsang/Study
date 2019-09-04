@@ -66,6 +66,13 @@
 - #### [자바 직렬화, 그것이 알고싶다. 훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 
 - #### [자바 직렬화, 그것이 알고싶다. 실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
+
+- #### [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know/)
+
+- #### [JavaScript Prototype 이해하기](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
+
+- #### [JS class 소개](https://infoscis.github.io/2018/02/13/ecmascript-6-introducing-javascript-classes/)
+
 - - -
 
 #### [뒤로 가기](./../../..)
