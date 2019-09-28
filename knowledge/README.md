@@ -76,6 +76,8 @@
 
 - #### [Gatsby 로 Blog 만들기](https://medium.com/@pks2974/gatsby-%EB%A1%9C-blog-%EB%A7%8C%EB%93%A4%EA%B8%B0-ac3eed48e068)
 
+- #### [Node.js 최초 발표 Ryan dahl 영상 번역 슬라이드](https://www.slideshare.net/doortts/ryan-dahl-nodejs-by-doortts)
+
 - - -
 
 #### [뒤로 가기](./../../..)
