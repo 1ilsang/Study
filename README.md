@@ -29,7 +29,7 @@
    <a href="#"><img width="70%" src="img/nodeDesignPattern.png" alt="Node.js design pattern image" /></a>
 
    - Node.js 디자인 패턴
-
+ 
    </td>
  </tr>
 <tr>
