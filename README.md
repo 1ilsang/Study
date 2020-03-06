@@ -1,6 +1,6 @@
 # STUDY
 >공부한 책 및 자료들을 정리한 공간입니다.
-> 
+>
 >제목을 클릭 하시면 정리한 상세 페이지로 이동할 수 있습니다. 
 
 # 1. [Algorithm](Algorithm)
@@ -25,7 +25,7 @@
    - [OS? Oh Yes!](http://1ilsang.blog.me/221520656762)  <br/>
    
    </td>
-   <td>
+   <td> 
    <a href="#"><img width="70%" src="img/nodeDesignPattern.png" alt="Node.js design pattern image" /></a>
 
    - Node.js 디자인 패턴
@@ -62,7 +62,7 @@
  
 <img width="70%" src="img/gcpBegin.jpg"/>
 
-- 구글 클라우드 플랫폼 입문  <br/>
+- 구글 클라우드 플랫폼 입문<br/>
  
 </td>
 <td width="30%">
@@ -179,7 +179,7 @@
 <td width="30%">
 
 <a href="http://1ilsang.blog.me/220795346040"><img width="70%" src="img/C300.jpg"></img></a>
-- [초보자를 위한 C 언어 300제 - 김은철 (정보문화사13)](http://1ilsang.blog.me/220795346040)
+- [초보자를 위한 C 언어 300제 - 김은철 (정보문화사 13)](http://1ilsang.blog.me/220795346040)
 </td>
 </tr>
 
